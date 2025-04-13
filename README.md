@@ -1,4 +1,5 @@
 # HR Analytics Dashboard 📊
+
 This project provides an interactive and insightful **HR Analytics Dashboard** built using **Tableau**. The dashboard visualizes various key HR metrics to help businesses understand employee attrition, demographics, job satisfaction, and more. It is especially useful for HR professionals, analysts, and stakeholders aiming to make data-driven decisions to improve employee retention and workplace strategy.
 
 
