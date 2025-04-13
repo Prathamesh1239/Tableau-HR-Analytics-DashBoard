@@ -2,7 +2,6 @@
 
 This project provides an interactive and insightful **HR Analytics Dashboard** built using **Tableau**. The dashboard visualizes various key HR metrics to help businesses understand employee attrition, demographics, job satisfaction, and more. It is especially useful for HR professionals, analysts, and stakeholders aiming to make data-driven decisions to improve employee retention and workplace strategy.
 
----
 
 ## 📌 Project Overview
 
@@ -11,7 +10,6 @@ This project provides an interactive and insightful **HR Analytics Dashboard** b
 **Dashboards**: 2 Interactive Dashboards  
 **Primary Focus**: Attrition analysis, demographic trends, satisfaction metrics, department/job-wise insights
 
----
 
 ## 🧠 Key Insights
 
@@ -34,7 +32,6 @@ This project provides an interactive and insightful **HR Analytics Dashboard** b
 - **Age Group Attrition Rate**:
   - Highest attrition in `25-34` age group with `29.11%`
 
----
 
 ### 🔹 Dashboard 2: HR Analytics Dashboard 2
 - **Department-Wise Attrition**:
@@ -50,7 +47,6 @@ This project provides an interactive and insightful **HR Analytics Dashboard** b
 - **Gender & Age Group Breakdown**:
   - Similar attrition patterns as Dashboard 1, showing clear age and gender-based attrition behavior.
 
----
 
 ## 🔧 Features
 
@@ -60,7 +56,6 @@ This project provides an interactive and insightful **HR Analytics Dashboard** b
 - 🎓 Education background attrition insights
 - 😀 Job satisfaction heatmap
 
----
 
 ## 🚀 How to Use
 
